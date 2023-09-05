@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Rayhan</h1>
-<h3 align="center">I am a Full Stack Web Developer, and I'm very passionate and dedicated to my work. I always look for challenges where I can make the most of my potential and always love. This is to achieve him. I am determined to offer the best level of honesty, efficiency, and sincerity.</h3>
+<h3 align="center">I am a Full Stack Web Developer, and I'm very passionate and dedicated to my work. I always look for challenges where I can make the most of my potential and always love. I am determined to offer the best level of honesty, efficiency, and sincerity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-rayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-rayhan" /> </p>
 
